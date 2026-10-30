@@ -102,25 +102,6 @@ Web UI 自动化测试框架 — unittest / pytest 双版本
 </td>
 <td width="50%">
 
-#### 🌐 [network-tips](https://github.com/khan202612/network-tips)
-
-网络工具集 — 实用技巧与脚本汇总
-
-`Shell` `Network` `Proxy`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 📊 [Android-Performance](https://github.com/khan202612/Android-Performance)
-
-Android 性能测试工具集 — CPU / 内存 / 流量 / 电量 / 启动时间
-
-`Python` `ADB` `Performance`
-
-</td>
-<td width="50%">
 
 #### 🧪 [pytest_fixture](https://github.com/khan202612/pytest_fixture)
 
